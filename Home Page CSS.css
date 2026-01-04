@@ -50,7 +50,7 @@ a{text-decoration:none}
 .menu li a:hover,
 .menu .active{color:var(--primary)}
 
-/* ===== NAV ICON FIX ===== */
+
 
 .right-nav a i{
     font-size:1rem;
@@ -98,7 +98,7 @@ a{text-decoration:none}
 }
 
 /* ================= SEARCH BANNER ================= */
-/* ===== SEARCH BANNER FIX (NO BROKEN IMAGES) ===== */
+
 
 #search-banner{
     max-width:1200px;
@@ -259,8 +259,8 @@ a{text-decoration:none}
     color:#fff;
 }
 
-/* ================= DOWNLOAD APP (FIXED) ================= */
-/* ===== DOWNLOAD APP FINAL FIX (NO IMAGES) ===== */
+/* ================= DOWNLOAD APP================= */
+
 
 #download-app{
     max-width:1100px;
@@ -320,7 +320,7 @@ a{text-decoration:none}
 
 
 /* ================= FOOTER ================= */
-/* ===== FOOTER FINAL FIX ===== */
+
 
 footer{
     background:#1b1d1f;
@@ -400,3 +400,4 @@ footer{
     #download-app{flex-direction:column;text-align:center}
     .client-box-container{grid-template-columns:1fr}
 }
+
